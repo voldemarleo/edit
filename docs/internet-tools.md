@@ -564,6 +564,7 @@
 * [Gemini Portal](https://geminiprotocol.net/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
+* [Chrome Themes Download](https://gthemes.org/) - Customize Google Chrome
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chromium-Based Browser Flags
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Chromium-Based/Firefox Hidden Settings
